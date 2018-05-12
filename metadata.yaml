@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39815'
     url: http://www.gutenberg.org/2009/agents/39815
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39053#Electric-Bells-and-All-About-ThemA-Practical-Book-for-Practical-Men
 gutenberg_issued: '2012-03-04'
 gutenberg_type: Text
 identifiers:
